@@ -1,0 +1,17 @@
+/* add and delete products */
+#product-input{
+    margin-top: 30px;
+    width: 200px;
+    height: 35px;
+    margin-left: 3px;
+  }
+#product-button{
+    padding: 10px;
+    background-color: bisque;
+    border: 0;
+    cursor: pointer;
+} 
+#product-container{
+    padding-left: 8px;
+    font-size: 21px;
+}
